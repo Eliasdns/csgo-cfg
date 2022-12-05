@@ -2,6 +2,7 @@
 !.gitignore
 !README*
 
+!/video.txt
 !/autoexec.cfg
 !/treino.cfg
 !/gc.cfg
